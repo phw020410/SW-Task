@@ -1,0 +1,8 @@
+.content-color {
+    background: rgb(236, 236, 236);
+}
+
+.content {
+    width: 100%;
+    overflow: auto;
+}
