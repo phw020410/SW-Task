@@ -1,0 +1,15 @@
+#menu-btn-container {
+    text-align: right;
+}
+
+.menu-color {
+    background: rgb(221, 221, 221);
+}
+
+.menu-size {
+    width: 300px;
+}
+
+.menu-btn:hover {
+    background: rgb(184, 183, 183);
+}
